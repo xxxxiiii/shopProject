@@ -1,5 +1,7 @@
 # mall
 
+还在开发中...
+
 ## Project setup
 ```
 npm install
